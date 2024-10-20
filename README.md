@@ -6,13 +6,12 @@
 
 - ➕ **Addition**, ➖ **Subtraction**, ✖️ **Multiplication**, and ➗ **Division** operations.
 - 🧹 **Clear (AC)** and 📝 **Delete (DEL)** functionalities.
-- 🎨 **Beautiful, rounded button design** for a visually appealing experience.
-- 📱 **Adaptive layout** that adjusts seamlessly to various screen sizes.
+- 🎨 **Minimalistic UI** for a visually appealing experience.
 - 🖥️ **Real-time calculation display** for easy tracking of your operations.
 
 ## 📸Screenshots
-![WhatsApp Image 2024-10-20 at 1 44 04 AM](https://github.com/user-attachments/assets/2ee10148-479b-40c8-9b75-a121d011abc7)
-![WhatsApp Image 2024-10-20 at 1 44 07 AM](https://github.com/user-attachments/assets/f355ef79-4cee-4727-88cc-2e8b3dbf5c5f)
+
+![calc](https://github.com/user-attachments/assets/f26ab4eb-95bc-4e55-b7b5-b3f0ee13fe25)
 
 ## 🚀Getting Started
 
@@ -25,7 +24,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sarangs1621/Simple-Calculator.git
+   git clone https://github.com/Abekaesh/Simple_Calc.git
    ```
 2. Open the project in Android Studio.
 3. Build the project and run it on an Android emulator or a physical device.
@@ -56,6 +55,6 @@ We welcome contributions and feedback! Feel free to open an issue or submit a pu
 
 ## Author
 
-- **Sarang S Nair**
+- **P A Abekaesh**
 
 ⭐ If you like this project, give it a star to show your support!
